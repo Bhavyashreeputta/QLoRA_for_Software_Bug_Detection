@@ -2,3 +2,6 @@
 [submodule "pytracebugs"]
 	path = pytracebugs
 	url = https://github.com/acheshkov/pytracebugs.git
+[submodule "llama2-fine-tuning"]
+	path = llama2-fine-tuning
+	url = https://github.com/tejaswi693/llama2-finetune.git
