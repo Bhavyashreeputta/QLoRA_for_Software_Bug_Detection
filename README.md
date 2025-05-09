@@ -1,5 +1,15 @@
 # CS540_QLORA
 
+## Cloning the Project with Submodules
+
+This repository uses Git submodules. To clone the project properly, follow these steps:
+
+### Clone the Repository (with Submodules)
+```bash
+git clone --recurse-submodules https://github.com/Vamsi-Dath/CS540_QLORA.git
+cd CS540_QLORA
+```
+
 # Data after post processing
 Drive: https://drive.google.com/drive/folders/158sunCAaWvGKcySnYbA80t5-Ve147AAs?usp=drive_link
 # Postprocessed data info
