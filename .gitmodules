@@ -1,1 +1,4 @@
 
+[submodule "pytracebugs"]
+	path = pytracebugs
+	url = https://github.com/acheshkov/pytracebugs.git
