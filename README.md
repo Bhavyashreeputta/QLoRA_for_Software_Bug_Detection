@@ -1,4 +1,4 @@
-# CS540_QLORA
+# Fine-Tuning LLM using QLoRA for Software Bug Detection and Measuring the Degree of Improvement
 
 ## Cloning the Project with Submodules
 
