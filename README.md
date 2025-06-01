@@ -79,6 +79,6 @@ Data columns (total 7 columns):
 3  [\n    "Module(body=[FunctionDef(name='__init_...  
 4  [\n    "Module(body=[FunctionDef(name='dump_ch...  
 
-## CodeLlama Fine tuned Model:
+## Fine tuned Model of Code Llama:
 
 [Huggingface-codellama-qlora-finetuned](https://huggingface.co/PuttaBhavya/codellama-qlora-finetuned/tree/main)
